@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.head-row {
+  font-size: 24px;
+  font-weight: 400;
+  background-color: rgb(32, 32, 32);
+  color: white;
+}
+.row {
+  font-size: 24px;
+}
+.row:nth-child(even) {
+  background-color: rgb(198, 196, 196);
+}
