@@ -3,11 +3,6 @@
   border-radius: 15px;
   padding: 20px 10px;
 }
-.friends-list {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 50px;
-}
 .avatar {
   margin-bottom: 20px;
 }
